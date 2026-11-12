@@ -1,0 +1,6 @@
+*.log
+screenshots/
+dumps/
+sessions/
+.env
+*.token
